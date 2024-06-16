@@ -30,6 +30,6 @@ Steps to configure will be as follows:
 10. Now Run python script using "py Eye_tracking.py" command.
 
 
-Additionally you can checkoutn corresponding video on our channel "Hak_Se Engineer" for complete detail.
+Additionally you can checkout https://youtu.be/enbJcMGHx-w video on our channel "Hak_Se Engineer" for complete detail.
 
 Enjoy!!
