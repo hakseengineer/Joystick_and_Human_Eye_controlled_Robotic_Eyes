@@ -1,0 +1,5 @@
+numpy == 1.22.0
+opencv_python
+cmake==3.25.2
+dlib==19.24.2
+pyserial
