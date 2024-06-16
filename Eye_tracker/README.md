@@ -13,14 +13,14 @@ This is a Python (2 and 3) library that provides a **webcam-based eye tracking s
 
 ## Installation
 
-Clone this project:
+Clone this project: You need to use "https://github.com/antoinelame/GazeTracking.git" link to download tracking script or you can use below command..
 
 ```shell
 git clone https://github.com/antoinelame/GazeTracking.git
 ```
 
 ### For Pip install
-Install these dependencies (NumPy, OpenCV, Dlib):
+Install these dependencies (NumPy, OpenCV, Dlib): Don't use default requirement.txt, but download updated from "https://github.com/hakseengineer/Joystick_and_Human_Eye_controlled_Robotic_Eyes/tree/main/Eye_tracker"
 
 ```shell
 pip install -r requirements.txt
