@@ -7,9 +7,11 @@ Components Required:
 3. MAX7219 Dot matrix display
 
 Source code Download:
-1. Arduino code from Robotic_eyes
+1. Arduino code from [Robotic_eyes](https://github.com/hakseengineer/Joystick_and_Human_Eye_controlled_Robotic_Eyes/tree/main/Robotic_eyes)
 2. Python script from https://github.com/antoinelame/GazeTracking
-3. updated requirement.txt Eye_tracker/requirements.txt
+3. updated requirement.txt [Eye_tracker/requirements.txt](https://github.com/hakseengineer/Joystick_and_Human_Eye_controlled_Robotic_Eyes/blob/main/Eye_tracker/requirements.txt)
+
+Note: Replace the default "Requirement.txt" from gaze tracking folder downloaded in step 2 with the updated file downloaded in step 3.
 
 Steps to configure will be as follows:
 1. Install Arduino IDE.
